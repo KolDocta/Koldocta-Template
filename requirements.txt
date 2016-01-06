@@ -1,0 +1,5 @@
+gunicorn
+Eve
+
+-e git+git://github.com/KolDocta/koldocta-core#egg=koldocta-core
+

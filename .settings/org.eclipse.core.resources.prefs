@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//project/__init__.py=utf-8
+encoding/app.py=utf-8
+encoding/manage.py=utf-8
+encoding/run.py=utf-8
+encoding/settings.py=utf-8
+encoding/setup.py=utf-8
+encoding/worker.py=utf-8
+encoding/wsgi.py=utf-8
