@@ -8,6 +8,7 @@
 *#
 .#*
 *TAGS
+*.egg-info
 .ropeproject
 /data
 static/*
@@ -25,9 +26,27 @@ build/
 include/
 .idea/
 .vagrant/
-/client/.tern-project
-/server/.project
-/server/.pydevproject
-/server/.settings/org.eclipse.core.resources.prefs
-/results/
-/superdesk-content-api/
+
+*.py[co]
+
+# env
+/env
+/bin
+/lib
+/include
+/build
+/dist
+
+# tests
+/man
+
+.ropeproject
+# setup
+*.egg-info
+*.egg
+*.swp
+.idea
+
+/.settings/org.eclipse.core.resources.prefs
+.settings
+/settings
